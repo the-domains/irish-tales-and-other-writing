@@ -1,4 +1,3 @@
-layout_spectrum: 0.42057832796126604
 typography_spectrum: 0.2708260982763022
 color:
   brandStrength: 0.8739000405184925
@@ -11,4 +10,6 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
+layout_spectrum: 0.42057832796126604
 name: Irish Tales and Other Writing
+title: Irish Tales
